@@ -1,5 +1,4 @@
 public class Item {
-    
 public int ID;
 public String name;
 public double price;
